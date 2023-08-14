@@ -1,3 +1,6 @@
+
+# <mark>Desenvolvendo um website com inspiração do meu trabalho atual, voltado para aprendizado do uso da biblioteca REACT, praticando seus componentes, futuramente rotas, dentre outras funcionalidades do React.</mark>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
