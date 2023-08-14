@@ -1,0 +1,13 @@
+.boxFooter {
+    height: max-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #524949;
+}
+
+.boxFooter small {
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+}

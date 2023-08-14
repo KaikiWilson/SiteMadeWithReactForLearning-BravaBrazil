@@ -1,0 +1,83 @@
+* {
+    font-family: 'Anton', sans-serif;
+    font-family: 'Bebas Neue', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+.mainPrincipal {
+    display: flex;
+    flex-direction: column;
+}
+
+.mainPrincipal .main {
+    width: 100%;
+    min-height: 650px;
+    display: flex;
+    flex-direction: row;
+}
+
+.mainPrincipal .main .boxContent {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Bebas Neue', sans-serif;
+}
+
+.mainPrincipal .main .boxContent h1 {
+    color: #fff;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.mainPrincipal .main .boxContent .spanContent {
+    color: yellow;
+}
+
+.mainPrincipal .main .boxImage {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.mainPrincipal .main .boxImage .imgSettingsPrincipal {
+    box-shadow: 7px -5px 5px 0px rgba(0,0,0,0.75);
+    border-radius: 200px 200px 200px 200px;
+}
+
+.mainPrincipal .mainMerlot {
+    display: flex;
+    flex-direction: row;
+    background-color: #fde5e5;
+}
+
+.mainPrincipal .mainMerlot .boxImageMerlot {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+
+.mainPrincipal .mainMerlot .boxContentMerlot {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.mainPrincipal .mainMerlot .boxContentMerlot h1{
+    color: #000;
+    text-shadow: 0px 0px 2px #000;
+}
+
+.mainPrincipal .mainMerlot .boxContentMerlot h1 span {
+    color: purple;
+    text-shadow: 2px 2px 2px #000;
+}

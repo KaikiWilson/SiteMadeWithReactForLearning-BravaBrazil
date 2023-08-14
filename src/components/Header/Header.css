@@ -1,0 +1,70 @@
+html {
+    --background: white;
+    --text: black;
+}
+
+.boxMenu .contentMenu {
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+}
+
+.boxMenu .contentMenu .boxSiteNameMenu .siteNameMenu {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: 200;
+    color: #fff;
+    text-align: start;
+    font-size: 25px;
+    margin-left: 15px;
+}
+
+.boxMenu .contentMenu .boxSiteNameMenu .siteNameMenuSpan {
+    font-family: 'Bricolage Grotesque', sans-serif;
+    font-weight: 200;
+    font-size: 15px;
+}
+
+.boxMenu .contentMenu .boxLinksMenu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.boxMenu .contentMenu .linksMenu {
+    width: max-content;
+    height: max-content;
+    color: #fff;
+    font-weight: normal;
+    cursor: pointer;
+    border-bottom: 2px solid yellow;
+    transition: .25s;
+}
+
+.boxMenu .contentMenu .boxIconsMenu {
+    width: max-content;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.boxMenu .contentMenu .boxIconsMenu .boxMoonIcon {
+    border: .5px solid transparent;
+    border-radius: 8px;
+    margin-right: 20px;
+    transition: .25s;
+}
+
+.boxMenu .contentMenu .boxIconsMenu .boxMoonIcon:hover {
+    background-color: rgb(150, 163, 177);
+    border: .5px solid rgb(150, 163, 177);
+    border-radius: 8px;
+    cursor: pointer;
+    transition: .25s;
+}
+
+.boxMenu .contentMenu .boxLinksMenu .linksMenu:hover {
+    color: rgb(253, 253, 132);
+    transition: .25s;
+}
