@@ -1,5 +1,5 @@
 
-# Desenvolvendo um website com inspiração do meu trabalho atual, voltado para aprendizado do uso da biblioteca REACT, praticando seus componentes, rotas, estados globais e manipulando estados, consumir API, POO, dentre outras funcionalidades do React. Typescript/Javascript.
+# Desenvolvendo um website com inspiração do meu trabalho atual, voltado para aprendizado do uso da biblioteca REACT, praticando seus componentes, rotas, estados globais e manipulando estados, consumir API, POO, local storage, dentre outras funcionalidades do React. Typescript/Javascript.
 
 # Getting Started with Create React App
 
